@@ -22,7 +22,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/kpraga/API_Automation_Framework</url>
+            <url>https://maven.pkg.github.com/KPragadeesh/API_Automation_Framework</url>
         </repository>
     </distributionManagement>
 
