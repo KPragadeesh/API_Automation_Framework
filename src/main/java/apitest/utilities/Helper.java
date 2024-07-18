@@ -25,7 +25,7 @@ public class Helper {
 	private static Helper instance = null;
 	
 	private Helper() {
-		//created to pervent external initialization
+		
 		
 	}
 
